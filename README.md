@@ -24,7 +24,7 @@ This dataset includes satellite images with pixel-level segmentation masks for s
 
 ### **Detection Dataset**
 
-####**1.Auto-Orient:**
+#### **1.Auto-Orient:**
 The images are automatically oriented to the correct position if needed. 
 
 #### **2.Resize:**
