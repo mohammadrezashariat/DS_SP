@@ -39,7 +39,7 @@ The brightness of the images is randomly adjusted between -25% and +25% to intro
 
 ### **Segmentation Dataset**
 
-####**1.Auto-Orient:**
+#### **1.Auto-Orient:**
 The images are automatically oriented to the correct position if needed. ####**2.Resize:**
 The images are resized to a fixed size of 256x256 pixels to ensure consistency during training.
 
